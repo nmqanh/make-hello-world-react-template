@@ -23,7 +23,7 @@
   fill: transparent;
   stroke: url(#bggrad);
   stroke-linecap: round;
-  animation: bgmove 200s linear infinite;
+  animation: bgmove 10s linear infinite;
 }
 
 @keyframes bgmove {
